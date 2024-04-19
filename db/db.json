@@ -1,0 +1,81 @@
+{
+  "ingredients": {
+    "breads": [
+      {
+        "id": 1,
+        "value": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "value": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "value": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "value": "Integral"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "value": "Maminha"
+      },
+      {
+        "id": 2,
+        "value": "Alcatra"
+      },
+      {
+        "id": 3,
+        "value": "Picanha"
+      },
+      {
+        "id": 4,
+        "value": "Veggie burger"
+      }
+    ],
+    "optionals": [
+      {
+        "id": 1,
+        "value": "Bacon"
+      },
+      {
+        "id": 2,
+        "value": "Cheddar"
+      },
+      {
+        "id": 3,
+        "value": "Salame"
+      },
+      {
+        "id": 4,
+        "value": "Tomate"
+      },
+      {
+        "id": 4,
+        "value": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "value": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "value": "Solicitado"
+    },
+    {
+      "id": "2",
+      "value": "Em produção"
+    },
+    {
+      "id": "3",
+      "value": "Finalizado"
+    }
+  ],
+  "burgers": []
+}
